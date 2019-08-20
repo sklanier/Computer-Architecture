@@ -73,4 +73,4 @@ class CPU:
 
     def run(self):
         """Run the CPU."""
-        pass
+        print(f"8")
